@@ -1,4 +1,4 @@
-# Homework 3: Data Warehouse 
+# Homework 3: Data Warehouse
 
 #### Prerequisies
 
